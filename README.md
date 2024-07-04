@@ -1,0 +1,1 @@
+This project was for a class during my master's degree and focused on the distribution of electric vehicles. I used a CSV dataset and uploaded it into Tableau to create the data visuals. The workbook has also been loaded to show the process of building the visuals. 
